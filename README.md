@@ -1,29 +1,19 @@
-# Durvesh Gaikwad — Full Stack Developer
+# Hey there! 👋
 
-I build real, production-ready web applications from the ground up.  
-Currently going deep on core fundamentals — writing better code, not just more code.
+I'm Durvesh, a Full Stack Developer based in India.
 
----
+I build things with TypeScript, JavaScript, Next.js, and the MERN stack. PostgreSQL and Docker are always somewhere in the mix too.
 
-## Tech Stack
+Right now I'm not chasing frameworks or tutorials — I'm going deep on the fundamentals. Understanding *why* things work, not just *how* to use them. Real projects, real problems, real code.
 
-**Languages:** TypeScript, JavaScript  
-**Frontend:** Next.js, React  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, PostgreSQL  
-**Tools:** Docker, Git
+If an idea makes sense to build, I build it.
 
 ---
 
-## What I'm Focused On
-
-- Strengthening fundamentals behind the tools I use every day
-- Building real projects that solve real problems
-- Going deep instead of going wide
+**Currently:** Building & learning in public  
+**Stack:** TypeScript · JavaScript · Next.js · React · Node.js · Express · MongoDB · PostgreSQL · Docker
 
 ---
 
-## Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/codebydurvesh](https://www.linkedin.com/in/codebydurvesh/)
-- **Email:** durvesh.gaikwad08@gmail.com
+📬 Reach me at [durvesh.gaikwad08@gmail.com](mailto:durvesh.gaikwad08@gmail.com)  
+💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/codebydurvesh/)
